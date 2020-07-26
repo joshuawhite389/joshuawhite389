@@ -1,4 +1,4 @@
-##Hi, my name is Josh!
+## Hi, my name is Josh!
 I'm currently a student at Tech Elevator
 where I'm training to be a full stack developer!  I'll be adding
 my projects to my projects repository as I continue to hone my
