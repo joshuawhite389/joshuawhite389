@@ -1,7 +1,9 @@
 ## Hi, my name is Josh!
-I'm currently a student at Tech Elevator
-where I'm training to be a full stack developer!  I'll be adding
-my projects to my projects repository as I continue to hone my
+I'm currently a Sofware Developer Associate at PNC Bank
+where I spend much of my time testing new features
+developed for the group I'm aligned to. Looking for bugs is fun,
+but I also have a passion for making them 😄. I'll be adding
+more projects to my projects repository as I continue to hone my
 skills and learn new things.  More to follow!
 
 
